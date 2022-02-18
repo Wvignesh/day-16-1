@@ -1,0 +1,92 @@
+ .container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  margin: 20px 20px;
+  width: 80%;
+   
+ }
+
+ .heading{
+  font-family: 'Almarai', sans-serif;
+  font-family: 'Rock Salt', cursive;
+ }
+
+ .new-page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+ width:50rem;
+ margin-bottom: 2rem;
+ }
+
+ #image{
+  border: 1px solid black;
+  height: 6rem;
+  width: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1rem;
+  margin-top: 15px;
+  border-radius: 50%;
+  font-family: 'Almarai', sans-serif;
+font-family: 'Rock Salt', cursive;
+ }
+
+ #one{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 0.3rem;
+ }
+
+ #image-c{
+   
+  border: 1px solid black;
+  height: 8rem;
+  width: 8rem;
+  margin-right: 10rem;
+ }
+
+  .content{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    justify-content: space-between;
+  }
+
+  #submit{
+
+    padding: 5px;
+    width: 40%;
+  }
+  #cancel{
+
+    margin-left: 25px;
+    padding: 5px;
+    width: 40%;
+    
+  }
+  #number{
+
+    text-align: center;
+    
+  }
+ 
+  #seat2{
+
+    text-align: center;
+  }
+
+  input{
+    margin-bottom: 10px;
+  }
+  
+  button{
+
+    font-family: 'Almarai', sans-serif;
+font-family: 'Rock Salt', cursive;
+  }
